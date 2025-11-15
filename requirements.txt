@@ -1,0 +1,6 @@
+pywinauto==0.9.3
+PyQt5==5.15.9
+pandas==2.0.3
+PyInstaller==6.1.0
+pyyaml==6.0
+pyperclip==1.8.2
